@@ -2,7 +2,7 @@
 
 import 'cypress-file-upload';
 
-it('displays two todo items by default', () => {
+it('Visit Domoqa and fill form and submit it', () => {
     
 
 // Importing necessary Cypress commands
